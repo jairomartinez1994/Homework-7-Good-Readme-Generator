@@ -46,3 +46,7 @@ Email: null
 ## Questions 
  
  dsfgdsfgdsgsgsagasgasgas
+ 
+## Demostration in Terminal
+
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/61437470/81755308-6f2d7500-9486-11ea-9253-20569aaad9cd.gif)
