@@ -49,4 +49,4 @@ Email: null
  
 ## Demostration in Terminal
 
-![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/61437470/81755308-6f2d7500-9486-11ea-9253-20569aaad9cd.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/61437470/81755761-a6e8ec80-9487-11ea-98b4-20696a09af27.gif)
